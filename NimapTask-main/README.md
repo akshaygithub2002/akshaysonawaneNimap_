@@ -51,9 +51,4 @@ This project demonstrates the implementation of a RESTful application using **Sp
 
 ---
 
-## Setup Instructions
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/Siddheshbalghare/NimapTask
-   cd NimapTask
